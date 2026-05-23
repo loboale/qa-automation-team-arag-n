@@ -77,7 +77,7 @@ qa-automation-team-arag-n/
 ## 🚀 Cómo ejecutar los tests
 
 1. **Cloná el repositorio:**
-   ```bash
+  
    git clone https://github.com/loboale/qa-automation-team-arag-n.git 
    
 2. Instalá las dependencias:
