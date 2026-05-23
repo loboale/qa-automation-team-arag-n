@@ -81,16 +81,19 @@ qa-automation-team-arag-n/
    git clone https://github.com/loboale/qa-automation-team-arag-n.git 
    ```
 2. Instalá las dependencias:
+   
     cd qa-automation-team-arag-n
     npm install
   
    Este paso descarga todas las herramientas necesarias (Cypress, plugins, etc.) que están listadas en package.json. Es como si estuvieras instalando los "motores" para que los tests funcionen.
 
-3. Abrí Cypress:
+4. Abrí Cypress:
+   
    npx cypress open
+
    Esto ejecuta Cypress sin necesidad de instalarlo globalmente. Usa la versión exacta que descargaste en el paso 2. Se abrirá una ventana donde podés elegir qué test ejecutar.
    
-4. Ejecutá los tests desde la interfaz gráfica de Cypress. ¡Y a ver esos checks verdes! ✅
+6. Ejecutá los tests desde la interfaz gráfica de Cypress. ¡Y a ver esos checks verdes! ✅
 
 🎓 Lo que aprendí en este proyecto
 Instalación y configuración de Cypress desde cero.
