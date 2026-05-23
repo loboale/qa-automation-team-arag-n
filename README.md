@@ -20,20 +20,21 @@ Cada test demuestra habilidades de testing automatizado, desde selectores básic
 - **Excel** para documentación de casos de prueba
 
 ## 📂 Estructura del proyecto
+```text
 qa-automation-team-arag-n/
 ├── cypress/
-│ ├── downloads/
-│ ├── e2e/
-│ │ ├── humiCloud.cy.js
-│ │ ├── humiCloud_exploratorio.cy.js
-│ │ ├── miPropioTest.cy.js
-│ │ ├── playground-Guardia-Nocturna.cy.js
-│ │ └── test2-team-aragon.cy.js
-│ ├── fixtures/
-│ ├── support/
-│ │ ├── commands.js
-│ │ └── e2e.js
-│ └── videos/
+│   ├── downloads/
+│   ├── e2e/
+│   │   ├── humiCloud.cy.js
+│   │   ├── humiCloud_exploratorio.cy.js
+│   │   ├── miPropioTest.cy.js
+│   │   ├── playground-Guardia-Nocturna.cy.js
+│   │   └── test2-team-aragon.cy.js
+│   ├── fixtures/
+│   ├── support/
+│   │   ├── commands.js
+│   │   └── e2e.js
+│   └── videos/
 ├── .gitignore
 ├── cypress.config.js
 ├── package-lock.json
