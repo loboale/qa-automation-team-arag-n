@@ -40,7 +40,7 @@ qa-automation-team-arag-n/
 ├── package-lock.json
 ├── package.json
 └── README.md
-
+```
 
 ## 🧪 Tests incluidos
 
@@ -77,13 +77,13 @@ qa-automation-team-arag-n/
 ## 🚀 Cómo ejecutar los tests
 
 1. **Cloná el repositorio:**
-  
+  ```bash
    git clone https://github.com/loboale/qa-automation-team-arag-n.git 
-   
+   ```
 2. Instalá las dependencias:
     cd qa-automation-team-arag-n
     npm install
-
+  
    Este paso descarga todas las herramientas necesarias (Cypress, plugins, etc.) que están listadas en package.json. Es como si estuvieras instalando los "motores" para que los tests funcionen.
 
 3. Abrí Cypress:
